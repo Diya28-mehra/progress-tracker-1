@@ -5,8 +5,8 @@
 |Day|What did you worked on?|Link|
 |-------|------|--------|
 |1|||
-|2|||
-|3|||
+|2|Leaning css concepts Positions and Links|https://github.com/Diya28-mehra/Learn-HTML-and-CSS|
+|3|HTML and CSS - A small project( A wepage - Tribute to APJ Abdul Kalam)|https://github.com/Diya28-mehra/Learn-HTML-and-CSS|
 |4|||
 |5|||
 |6|||
